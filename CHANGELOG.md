@@ -1,12 +1,17 @@
-# Changelog
+<h2 align="center">Changelog</h2>
 
 ### Table of Contents
 - [v1.0.0](#v1.0.0)
+- [v1.1.0](#v1.1.0)
 - [Versioning System](#versioning-system)
 - [License](#license)
 
-### v1.0.0
-- Initial Commit (_06/09/2020_)
+### v1.0.0 (_06/09/2020_)
+- Initial Commit 
+
+### v1.1.0 (_23/02/2021_)
+- Added URL color 
+- Corrected Highlight color & background
 
 ### Versioning System
 Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/).  <br/>

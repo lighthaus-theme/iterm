@@ -1,4 +1,4 @@
-# iTerm2 Lighthaus
+<h2 align="center">iTerm2 Lighthaus</h2>
 A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [iTerm2](https://www.iterm2.com/).
 
 ### Table of Contents
@@ -28,8 +28,8 @@ To use the Lighthaus theme for iTerm2, download [`lighthaus.itermcolors`](https:
 _For more information refer to the [official project documenation](https://www.iterm2.com/documentation.html)._
 
 ### Version
-```
-v 1.0.0
+```vim
+v1.1.0
 ```
 
 _Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/)._ <br/>
