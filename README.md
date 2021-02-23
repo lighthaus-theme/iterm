@@ -1,4 +1,5 @@
 <h2 align="center">iTerm2 Lighthaus</h2>
+
 A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [iTerm2](https://www.iterm2.com/).
 
 ### Table of Contents
