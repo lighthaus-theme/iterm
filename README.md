@@ -12,7 +12,6 @@ A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [iTerm2](h
 ### Screenshots
 
 <p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/iterm/master/iTerm-01.png"><p>
-
 <p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/iterm/master/iTerm-02.png"><p>
 
 
