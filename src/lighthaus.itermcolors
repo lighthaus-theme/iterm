@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <!--
   Lighthaus Color theme for iTerm
   GIT: https://github.com/lighthaus-theme/iterm
   Author: Adhiraj Sirohi (https://github.com/brutuski)
           Vasundhara Sharma (https://github.com/vasundhasauras)
-
   Copyright © 2020-Present Lighthaus Theme
   Copyright © 2020-Present Adhiraj Sirohi
   Copyright © 2020-Present Vasundhara Sharma
 -->
+
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -199,13 +200,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.17647059261798859</real>
+		<real>0.55294120311737061</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.14509804546833038</real>
+		<real>0.55294120311737061</real>
 		<key>Red Component</key>
-		<real>0.12941177189350128</real>
+		<real>0.55686277151107788</real>
 	</dict>
 	<key>Ansi 9 Color</key>
 	<dict>

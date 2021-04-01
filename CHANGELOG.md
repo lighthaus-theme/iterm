@@ -1,20 +1,25 @@
 <h2 align="center">Changelog</h2>
 
 ### Table of Contents
-- [v1.0.0](#v1.0.0)
+- [v1.2.0](#v1.2.0)
 - [v1.1.0](#v1.1.0)
+- [v1.0.0](#v1.0.0)
 - [Versioning System](#versioning-system)
 - [License](#license)
 
-### v1.0.0 (_06/09/2020_)
-- Initial Commit 
+
+### v1.2.0 
+- Corrected contrast issue with `bright black`. See [Issue](https://github.com/lighthaus-theme/lighthaus/issues/3) (_01/04/2020_)
 
 ### v1.1.0 (_23/02/2021_)
 - Added URL color 
-- Corrected Highlight color & background
+- Corrected Highlight color & background _(23/02/2021)_
+
+### v1.0.0 
+- Initial Commit 
 
 ### Versioning System
-Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/).  <br/>
+Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/). _(06/09/2020)_ 
 
 
 ### License

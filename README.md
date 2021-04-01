@@ -1,3 +1,7 @@
+<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/iterm/486d638fafdb7d07764218851ab1d386d8a14ec7/assets/iterm%202-badge.svg" width="250"><p>
+<p align="center">
+   <a href="https://www.buymeacoffee.com/asirohi"><img alt="Status" src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus-theme/3cc9fd60c69da89f56721ca9048f38709b3dc878/BuyUsACoffee.svg" width="150" height="23">
+</p>
 <h2 align="center">iTerm2 Lighthaus</h2>
 
 A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [iTerm2](https://www.iterm2.com/).
@@ -11,8 +15,8 @@ A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [iTerm2](h
 
 ### Screenshots
 
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/iterm/master/iTerm-01.png"><p>
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/iterm/master/iTerm-02.png"><p>
+<p align="center"><img src="https://github.com/lighthaus-theme/iterm/blob/master/assets/iTerm-01.png?raw=true"><p>
+<p align="center"><img src="https://github.com/lighthaus-theme/iterm/blob/master/assets/iTerm-02.png?raw=true"><p>
 
 
 ### Installation
@@ -29,7 +33,7 @@ _For more information refer to the [official project documenation](https://www.i
 
 ### Version
 ```vim
-v1.1.0
+v 1.2.0
 ```
 
 _Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/)._ <br/>
