@@ -1,14 +1,18 @@
 <p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/iterm/486d638fafdb7d07764218851ab1d386d8a14ec7/assets/iterm%202-badge.svg" width="250"><p>
+
 <p align="center">
-   <a href="https://www.buymeacoffee.com/asirohi"><img alt="Status" src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus-theme/3cc9fd60c69da89f56721ca9048f38709b3dc878/BuyUsACoffee.svg" width="150" height="23">
+   <a href="https://www.buymeacoffee.com/asirohi"><img alt="Status" src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus-theme/3cc9fd60c69da89f56721ca9048f38709b3dc878/BuyUsACoffee.svg" width="150" height="23"></a>
 </p>
+
 <h2 align="center">iTerm2 Lighthaus</h2>
 
 A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [iTerm2](https://www.iterm2.com/).
 
 ### Table of Contents
+
 - [Screenshots](#screenshots)
 - [Installation](#installation)
+- [Contributing](#contributing)
 - [Version](#version)
 - [Bugs/Issues](#bugs/issues)
 - [License](#license)
@@ -20,6 +24,7 @@ A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [iTerm2](h
 
 
 ### Installation
+
 To use the Lighthaus theme for iTerm2, download [`lighthaus.itermcolors`](https://github.com/lighthaus-theme/iterm/blob/master/src/lighthaus.itermcolorse) file. <br>
 - Launch iTerm2
 - Type `CMD+i`
@@ -31,7 +36,14 @@ To use the Lighthaus theme for iTerm2, download [`lighthaus.itermcolors`](https:
 
 _For more information refer to the [official project documenation](https://www.iterm2.com/documentation.html)._
 
+### Contributing
+
+Check out [CONTRIBUTING](https://github.com/lighthaus-theme/lighthaus/blob/master/CONTRIBUTING.md). 
+
+Pull Request Template can be found [here](https://github.com/lighthaus-theme/lighthaus/blob/master/PULL_REQUEST_TEMPLATE.md) and Issues and Bugs Template [here](https://github.com/lighthaus-theme/lighthaus/blob/master/ISSUE_TEMPLATE.md).
+
 ### Version
+
 ```vim
 v 1.2.0
 ```
@@ -40,7 +52,8 @@ _Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/).
 _All changes are recorded in [CHANGELOG](https://github.com/lighthaus-theme/iterm/blob/master/CHANGELOG.md)_
 
 ### Bugs/Issues
-Please report any bugs or issues [here](https://github.com/lighthaus-theme/iterm/issues).
+
+Please report any bugs or issues [here](https://github.com/lighthaus-theme/iterm/issues). Issues and Bugs Template can be found [here](https://github.com/lighthaus-theme/lighthaus/blob/master/ISSUE_TEMPLATE.md).
 
 ### License 
 
